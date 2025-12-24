@@ -3,6 +3,18 @@
 {
    background: linear-gradient( to right, #1A47EA, #82E9FF);
 }
+.bg2
+{
+   background: linear-gradient( to right, #FF9B05, #FF8F3F);
+}
+.bg4
+{
+   background: linear-gradient( to right, #FF9898, #FF1F00);
+}
+.bg3
+{
+   background: linear-gradient( to right, #DDA6FF, #D828F4);
+}
 .bgi
 {
 background-image: url("./2722\ [преобразованный]\ 5.png");
